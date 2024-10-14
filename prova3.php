@@ -11,7 +11,7 @@
     <p><a href="usuariColaborador.html">Enllaç a index</a></p>
     
     <?php
-        decho "<h2>Hola Iurii. No facis canvis</h2>";
+        echo "<h2>Hola Iurii. No facis canvis</h2>";
     ?>
 </body>
 </html>
